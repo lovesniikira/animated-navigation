@@ -547,17 +547,6 @@ background-color: var(--primary-color);
 .header .nav #navigation li::before{
   content: '';
   position: absolute;
-  bottom: -5px;
-  right: 0;
-  height: 2px;
-////////////
-//////////////
-////////////
-///////////////
-///////////
-//////////////
-////////////////
-////////////
-//////
+
 ////
 ////////
